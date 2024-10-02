@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountryiesApp</string>
+
+    <string name="egypt">Egypt</string>
+    <string name="madagascar">Madagascar</string>
+    <string name="palastina">Palestine</string>
+    <string name="russia">Russia</string>
+
+</resources>
